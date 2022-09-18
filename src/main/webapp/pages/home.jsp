@@ -7,6 +7,6 @@
 <title>DevSecOps in ACTION!!</title>
 </head>
 <body>
-    DevSecOps in ACTION!! 2nd part <a href="login">Login Here</a>
+    DevSecOps in ACTION!! 3rd part <a href="login">Login Here</a>
 </body>
 </html>
