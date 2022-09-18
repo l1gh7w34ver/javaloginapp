@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>DevSecOps in ACTION!!</title>
 </head>
 <body>
-DevSecOPs for Anaïs  <a href="login">Login Here</a>
+    DevSecOps in ACTION!! <a href="login">Login Here</a>
 </body>
 </html>
