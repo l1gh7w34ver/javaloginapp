@@ -7,7 +7,7 @@
 <title>DevSecOps in ACTION!!</title>
 </head>
 <body>
-    DevSecOps in ACTION!! 6th take... after power outage of 5pm... damn not sure what's wrong on this one
+    DevSecOps in ACTION!! oooh, i've done it wrong, so wrong
      <a href="login">Login Here</a>
 </body>
 </html>
