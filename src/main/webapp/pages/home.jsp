@@ -7,7 +7,7 @@
 <title>DevSecOps in ACTION!!</title>
 </head>
 <body>
-    DevSecOps in ACTION!! oooh, New Order
+    DevSecOps in ACTION!! New New Order
      <a href="login">Login Here</a>
 </body>
 </html>
